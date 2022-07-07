@@ -225,7 +225,7 @@ input[type="submit"]:focus {
   width: 100%;
   height: 100%;
   z-index: 9999;
-  background: rgb(216, 253, 6);
+  background: rgb(204, 67, 242);
 }
 
 .preloader-animation {
