@@ -144,6 +144,16 @@ p {
   50%   {  left:2px;}
   50%  {  right:2px}
   }
+.header-buttons{
+  position: relative;
+  animation-name: example1;
+  animation-duration: 0.9s;
+  animation-iteration-count: infinite;
+}
+@keyframes example {
+  50%   {  top:4px;}
+  50%  {  bottom:4px}
+  }
 /* buttons */
 .btn-primary,
 .btn-secondary,
