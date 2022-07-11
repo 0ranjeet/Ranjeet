@@ -150,7 +150,7 @@ p {
   animation-duration: 0.9s;
   animation-iteration-count: infinite;
 }
-@keyframes example {
+@keyframes example1 {
   50%   {  top:4px;}
   50%  {  bottom:4px}
   }
