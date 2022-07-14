@@ -139,6 +139,7 @@ p {
   animation-name: example;
   animation-duration: 3s;
   animation-iteration-count: infinite;
+  animation-delay: 2s;
 }
 @keyframes example {
   50%   {  left:2px;}
@@ -149,6 +150,7 @@ p {
   animation-name: example1;
   animation-duration: 10s;
   animation-iteration-count: infinite;
+  animation-delay: 3s;
 }
 @keyframes example1 {
   50%   {  top:4px;}
@@ -159,6 +161,7 @@ p {
   animation-name: example3;
   animation-duration: 10s;
   animation-iteration-count: infinite;
+  animation-delay: 3s;
 }
 @keyframes example3 {
   50%   {  top:2px;}
@@ -169,6 +172,7 @@ p {
   animation-name: example4;
   animation-duration: 19s;
   animation-iteration-count: infinite;
+  animation-delay: 3s;
 }
 @keyframes example4 {
   50%   {  top:4px;}
